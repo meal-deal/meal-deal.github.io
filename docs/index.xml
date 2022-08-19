@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mzo84s blog</title>
-    <link>https://mzo84.github.io/blog/</link>
-    <description>Recent content on mzo84s blog</description>
+    <title>hot-meal</title>
+    <link>https://hot-meal.github.io/</link>
+    <description>Recent content on hot-meal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 16 Aug 2022 10:55:09 +0400</lastBuildDate><atom:link href="https://mzo84.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 10:55:09 +0400</lastBuildDate><atom:link href="https://hot-meal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Few Things I&#39;ve Learnt</title>
-      <link>https://mzo84.github.io/blog/posts/lessons/</link>
+      <link>https://hot-meal.github.io/posts/lessons/</link>
       <pubDate>Tue, 16 Aug 2022 10:55:09 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/lessons/</guid>
+      <guid>https://hot-meal.github.io/posts/lessons/</guid>
       <description>Every couple of years the people you work with changes. New developers don’t understand the problems of the past because they&amp;rsquo;ve never seen them. Older developers burn out or lose excitement. New developers have a different reference frame, and they learn in different ways.
 When you fix an issue, you should really understand the issue that you’re fixing. Take a few step back and try to re-integrate any new knowledge into the design.</description>
     </item>
     
     <item>
       <title>Write Less Code</title>
-      <link>https://mzo84.github.io/blog/posts/write-less-code/</link>
+      <link>https://hot-meal.github.io/posts/write-less-code/</link>
       <pubDate>Thu, 16 Jun 2022 22:28:53 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/write-less-code/</guid>
+      <guid>https://hot-meal.github.io/posts/write-less-code/</guid>
       <description>It feels good to write code, to solve problems, and it’s exciting to build something new.
 Developers often seek out new languages, new paradigms, frameworks, stacks, tools, APIs, and libraries to learn. We immerse ourselves in them and seek mental flow – that state in which we happily generate new code.
 Some misguided genuises have even gone so far as to take lines of code generated per hour as a metric of overall productivity.</description>
@@ -30,10 +30,10 @@ Some misguided genuises have even gone so far as to take lines of code generated
     
     <item>
       <title>How to Write Clearly</title>
-      <link>https://mzo84.github.io/blog/posts/how-to-be-clear/</link>
+      <link>https://hot-meal.github.io/posts/how-to-be-clear/</link>
       <pubDate>Tue, 14 Jun 2022 14:49:39 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/how-to-be-clear/</guid>
+      <guid>https://hot-meal.github.io/posts/how-to-be-clear/</guid>
       <description>Think about the readers needs The most valuable strategy for communication is the simplest: clarity.
 When you communicate with clarity, people spend less time trying to interpret what you’re saying.
 As a result, they’ll understand you faster, and with less effort.
@@ -43,20 +43,20 @@ It helps to be a user-centered, or reader-centered.</description>
     
     <item>
       <title>Don&#39;t Repeat Yourself</title>
-      <link>https://mzo84.github.io/blog/posts/duplication/</link>
+      <link>https://hot-meal.github.io/posts/duplication/</link>
       <pubDate>Sat, 14 May 2022 13:29:27 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/duplication/</guid>
+      <guid>https://hot-meal.github.io/posts/duplication/</guid>
       <description>If someone hasn’t yet lectured you about copying code in your application, pasting it, then adjusting it (the “copy, paste, and adjust to taste” anti-pattern), consider this your lecture.
 Let&amp;rsquo;s imagine you have a perfectly good CalculateTax() method, but the product manager comes along and asks, “we’re onboarding new customers in Germany, and they calculate taxes a little differently there.” So you then copy the current method, paste it, rename it CalculateTaxGermany() and tweak it as needed.</description>
     </item>
     
     <item>
       <title>Advice for New Developers</title>
-      <link>https://mzo84.github.io/blog/posts/advice-for-juniors/</link>
+      <link>https://hot-meal.github.io/posts/advice-for-juniors/</link>
       <pubDate>Tue, 12 Apr 2022 12:48:49 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/advice-for-juniors/</guid>
+      <guid>https://hot-meal.github.io/posts/advice-for-juniors/</guid>
       <description>If you’re junior developer, you will probably assume that every word from the senior developers is a pearl of wisdom. In many cases they will be, if you’re lucky.
 But unfortunately not all senior developers are created (or promoted) equal.
 For every company with knowledgeable, helpful senior developers exists another populated by small people with small minds, whose main qualification isn’t technical ability, but hanging around for a long time, managing not to get fired, and stumbling into promotions with titles like “senior” or “principal.</description>
@@ -64,10 +64,10 @@ For every company with knowledgeable, helpful senior developers exists another p
     
     <item>
       <title>Why JavaScript and PHP are Evergreen</title>
-      <link>https://mzo84.github.io/blog/posts/love-js-php/</link>
+      <link>https://hot-meal.github.io/posts/love-js-php/</link>
       <pubDate>Mon, 28 Mar 2022 16:35:42 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/love-js-php/</guid>
+      <guid>https://hot-meal.github.io/posts/love-js-php/</guid>
       <description>There are only two kinds of languages: the ones people complain about and the ones nobody uses. Bjarne Stroustrup (Inventor of C&amp;#43;&amp;#43;) Over the last fifteen years, I&amp;rsquo;ve used over a dozen languages, from Classic ASP to Python, from .Net to Ruby.
 Yet, I still keep coming back to PHP and Javascript.
 I&amp;rsquo;ve found over my career that PHP and Javascript are primarily used by people who get shit done.</description>
@@ -75,10 +75,10 @@ I&amp;rsquo;ve found over my career that PHP and Javascript are primarily used b
     
     <item>
       <title>Writing Accessible Copy</title>
-      <link>https://mzo84.github.io/blog/posts/accessibility-a11y/</link>
+      <link>https://hot-meal.github.io/posts/accessibility-a11y/</link>
       <pubDate>Tue, 22 Feb 2022 13:44:19 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/accessibility-a11y/</guid>
+      <guid>https://hot-meal.github.io/posts/accessibility-a11y/</guid>
       <description>When writing, it&amp;rsquo;s important to use plain language and avoid figures of speech, idioms, and complicated metaphors. You can use this readability analyser to asssess how accessible your copy is.
 The text content of button, a, and label elements should be unique and descriptive. You can also use visually hidden elements to add more context to these elements if your visual copy needs to be short.
 Center-aligned or justified text is difficult to read.</description>
@@ -86,10 +86,10 @@ Center-aligned or justified text is difficult to read.</description>
     
     <item>
       <title>Always Build Smaller Systems</title>
-      <link>https://mzo84.github.io/blog/posts/smaller-systems/</link>
+      <link>https://hot-meal.github.io/posts/smaller-systems/</link>
       <pubDate>Tue, 18 Jan 2022 14:30:40 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/smaller-systems/</guid>
+      <guid>https://hot-meal.github.io/posts/smaller-systems/</guid>
       <description>There are many things that can push you towards building a bigger, more complex system, up-front.
 Such as budget allocation, an inability to decide which features to cut, or a desire to deliver the “best version” of a system.
 These things all push us towards building too much. You should always fight this.
@@ -98,10 +98,10 @@ We learn so much as we&amp;rsquo;re building a system that we end up iterating i
     
     <item>
       <title>The Value of Evidence</title>
-      <link>https://mzo84.github.io/blog/posts/evidence/</link>
+      <link>https://hot-meal.github.io/posts/evidence/</link>
       <pubDate>Fri, 24 Dec 2021 20:43:59 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/evidence/</guid>
+      <guid>https://hot-meal.github.io/posts/evidence/</guid>
       <description>Code reviews can serve as a great educational tool. Or they can kill your spirit.
 More likely, they will just fall somewhere between an enlightening experience and pointless arguing.
 You may hear things like “that’s not a good idea” or “this is not efficient.” You may also say those things. And you will most likely be hearing them with absolutely no appearance of evidence at all.
@@ -110,10 +110,10 @@ You can fix this.</description>
     
     <item>
       <title>The Benefits of Test Driven Development</title>
-      <link>https://mzo84.github.io/blog/posts/tdd/</link>
+      <link>https://hot-meal.github.io/posts/tdd/</link>
       <pubDate>Sun, 31 Oct 2021 23:59:00 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/tdd/</guid>
+      <guid>https://hot-meal.github.io/posts/tdd/</guid>
       <description>Test Driven Development (TDD) was a real game-changer for me.
 When it comes to programming, or anything tech-related, we, as an industry, generally go pretty nuts with our biases.
 IDE vs text editor? MacOS, Windows, or Linux? What do you think of PHP? Tabs or spaces? If you bring any of these up in a discussion, you will observe terminally stupid shouting matches occur between those with strong opinions.
@@ -122,10 +122,10 @@ So with this in mind, I accept that I’m wading into somewhat similar territory
     
     <item>
       <title>Idleness</title>
-      <link>https://mzo84.github.io/blog/posts/on-being-idle/</link>
+      <link>https://hot-meal.github.io/posts/on-being-idle/</link>
       <pubDate>Thu, 08 Jul 2021 17:54:33 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/on-being-idle/</guid>
+      <guid>https://hot-meal.github.io/posts/on-being-idle/</guid>
       <description>It can seem sometimes, that we have a lot of time.
 We might feel like we&amp;rsquo;re wasting it, like we should be using this time productively, to better ourselves, to do something more meaningful.
 But are we just burdening ourselves with needless guilt.
@@ -134,39 +134,39 @@ Our anxieties can make it seem like there are so many things to learn, so many t
     
     <item>
       <title>Managing Change</title>
-      <link>https://mzo84.github.io/blog/posts/more-lessons/</link>
+      <link>https://hot-meal.github.io/posts/more-lessons/</link>
       <pubDate>Wed, 09 Jun 2021 13:10:22 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/more-lessons/</guid>
+      <guid>https://hot-meal.github.io/posts/more-lessons/</guid>
       <description>Innovation is not always linear. Many times you need to make something worse before you can make it better.
 When you replace an old legacy system, you need to do it incrementally. step-by-step, otherwise it can be too much risk for stakeholders to support fully. This means you won’t actually see the benefits of replacing something until the end. When you’re adding new things, you&amp;rsquo;re also likely regressing. So manage expectations.</description>
     </item>
     
     <item>
       <title>Always Ask Why</title>
-      <link>https://mzo84.github.io/blog/posts/nobody-asks-why/</link>
+      <link>https://hot-meal.github.io/posts/nobody-asks-why/</link>
       <pubDate>Fri, 21 May 2021 22:33:25 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/nobody-asks-why/</guid>
+      <guid>https://hot-meal.github.io/posts/nobody-asks-why/</guid>
       <description>When you grow up you tend to get told the world is the way it is and you&#39;re life is just to live your life inside the world... Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it Steve Jobs I believe you should take every opportunity in life, and work to question assumptions and approaches that are “this is the way things have always been done”.</description>
     </item>
     
     <item>
       <title>Leveraging the CSS Cascade</title>
-      <link>https://mzo84.github.io/blog/posts/use-the-css-cascade/</link>
+      <link>https://hot-meal.github.io/posts/use-the-css-cascade/</link>
       <pubDate>Fri, 14 May 2021 13:39:40 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/use-the-css-cascade/</guid>
+      <guid>https://hot-meal.github.io/posts/use-the-css-cascade/</guid>
       <description>The CSS cascade can be your friend, if you learn to think about your CSS as layers:
 Have a settings stylesheet that contains all of your default variables. Followed by a base stylesheet that acts as a foundation. Then your layout stylesheets. Each one should be a self-contained layout or composition without depending on other stylesheets. Finally, your Block stylesheets that are the patterns to your composition, these are the recurring themes of your design.</description>
     </item>
     
     <item>
       <title>About Web3</title>
-      <link>https://mzo84.github.io/blog/posts/origins-of-web3/</link>
+      <link>https://hot-meal.github.io/posts/origins-of-web3/</link>
       <pubDate>Sun, 18 Apr 2021 14:47:08 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/origins-of-web3/</guid>
+      <guid>https://hot-meal.github.io/posts/origins-of-web3/</guid>
       <description>To understand web3 it helps to briefly review what is meant by web1 and web2.
 web1 was a decentralised internet. People would host their own websites and emails on their own servers at home.
 Over time, things started to become more centralised.
@@ -174,29 +174,29 @@ People began instead choosing to publish their content on centralised platforms 
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://hot-meal.github.io/about/</link>
+      <pubDate>Fri, 22 Jan 2021 13:44:19 +0400</pubDate>
+      
+      <guid>https://hot-meal.github.io/about/</guid>
+      <description>I&amp;rsquo;m a web developer, engineering manager and technical writer with over 15 years experience.
+I enjoy mentoring developers, optimising processes, and finding pragmatic solutions to engineering problems.
+On the Front-end I&amp;rsquo;m proficient or comfortable with:
+javascript node react html css sass On the Back-end:
+python php bash cli Outside of work, I&amp;rsquo;m interested in film, music and non-fiction literature.
+This site is published under the MIT License.</description>
+    </item>
+    
+    <item>
       <title>A Simpler Front-end Toolset</title>
-      <link>https://mzo84.github.io/blog/posts/2020-08-11-simple-front-end/</link>
+      <link>https://hot-meal.github.io/posts/2020-08-11-simple-front-end/</link>
       <pubDate>Tue, 11 Aug 2020 11:47:12 +0400</pubDate>
       
-      <guid>https://mzo84.github.io/blog/posts/2020-08-11-simple-front-end/</guid>
+      <guid>https://hot-meal.github.io/posts/2020-08-11-simple-front-end/</guid>
       <description>When looking to start a simple front end project, many people may default to using things like React, TypeScript, Vite, or Tailwind.
 Instead, here are some recommendations that don&amp;rsquo;t require using Node or NPM.
 CSS Use a &amp;ldquo;classless&amp;rdquo; CSS library like CSSBed or Pico.css.
 It&amp;rsquo;s similar to Bootstrap, but doesn&amp;rsquo;t require writing any CSS or adding any CSS classes to your HTML. Just include the &amp;lt;link&amp;gt; tag in your HTML document.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mzo84.github.io/blog/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mzo84.github.io/blog/about/</guid>
-      <description>I&amp;rsquo;m a web developer, engineering manager and technical writer with over 15 years experience.
-I enjoy solving problems, mentoring developers and finding pragmatic solutions to engineering questions.
-On the Front-end I&amp;rsquo;m proficient or comfortable with:
-javascript node react html css sass On the Back-end:
-python php bash cli Outside of work, I&amp;rsquo;m interested in film, music and non-fiction literature.
-All original content on this site is published under the MIT License.</description>
     </item>
     
   </channel>

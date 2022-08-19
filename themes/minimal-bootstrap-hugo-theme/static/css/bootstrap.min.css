@@ -76,7 +76,6 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    background-color: lightgoldernrodyellow
 }
 
 [tabindex="-1"]:focus {
@@ -9958,4 +9957,10 @@ h3 {
 .custom-navbar a:hover {
     color: white !important;
     text-decoration: underline !important;
+}
+
+
+body {
+    margin: 0;
+    font-family: Inconsolata, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important;
 }
