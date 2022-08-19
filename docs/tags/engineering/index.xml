@@ -6,26 +6,16 @@
     <description>Recent content in engineering on hot-meal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 16 Aug 2022 10:55:09 +0400</lastBuildDate><atom:link href="https://hot-meal.github.io/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Few Things I&#39;ve Learnt</title>
-      <link>https://hot-meal.github.io/posts/lessons/</link>
-      <pubDate>Tue, 16 Aug 2022 10:55:09 +0400</pubDate>
-      
-      <guid>https://hot-meal.github.io/posts/lessons/</guid>
-      <description>Every couple of years the people you work with changes. New developers don’t understand the problems of the past because they&amp;rsquo;ve never seen them. Older developers burn out or lose excitement. New developers have a different reference frame, and they learn in different ways.
-When you fix an issue, you should really understand the issue that you’re fixing. Take a few step back and try to re-integrate any new knowledge into the design.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 16 Jun 2022 22:28:53 +0400</lastBuildDate><atom:link href="https://hot-meal.github.io/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Write Less Code</title>
       <link>https://hot-meal.github.io/posts/write-less-code/</link>
       <pubDate>Thu, 16 Jun 2022 22:28:53 +0400</pubDate>
       
       <guid>https://hot-meal.github.io/posts/write-less-code/</guid>
-      <description>It feels good to write code, to solve problems, and it’s exciting to build something new.
-Developers often seek out new languages, new paradigms, frameworks, stacks, tools, APIs, and libraries to learn. We immerse ourselves in them and seek mental flow – that state in which we happily generate new code.
-Some misguided genuises have even gone so far as to take lines of code generated per hour as a metric of overall productivity.</description>
+      <description>We enjoy writing code, solving problems. It’s exciting to build something new.
+We seek out new languages, paradigms, frameworks, stacks, tools, APIs, and libraries to learn. Immersing ourselves in them and seeking mental flow – that state in which we generate new code as hours feel like minutes.
+Some misguided people have gone so far as to use lines of code generated per hour as a metric of productivity. But even if you we don&amp;rsquo;t get all the way to the point of weapons-grade stupidity, it’s still easy to believe that more code = better.</description>
     </item>
     
     <item>
@@ -34,19 +24,19 @@ Some misguided genuises have even gone so far as to take lines of code generated
       <pubDate>Sat, 14 May 2022 13:29:27 +0400</pubDate>
       
       <guid>https://hot-meal.github.io/posts/duplication/</guid>
-      <description>If someone hasn’t yet lectured you about copying code in your application, pasting it, then adjusting it (the “copy, paste, and adjust to taste” anti-pattern), consider this your lecture.
-Let&amp;rsquo;s imagine you have a perfectly good CalculateTax() method, but the product manager comes along and asks, “we’re onboarding new customers in Germany, and they calculate taxes a little differently there.” So you then copy the current method, paste it, rename it CalculateTaxGermany() and tweak it as needed.</description>
+      <description>If someone hasn’t yet warned you about copying code in your application, pasting it, then adjusting it (the “copy, paste, and adjust to taste” anti-pattern), then consider this your warning.
+Imagine you have a perfectly fine CalculateTax() method, but the product manager comes along and asks, “we’re expanding to Germany, and they calculate taxes a little differently there.” So you then copy the current method, paste it, rename it CalculateTaxGermany() and tweak it as needed.</description>
     </item>
     
     <item>
-      <title>Advice for New Developers</title>
+      <title>Senior Developers</title>
       <link>https://hot-meal.github.io/posts/advice-for-juniors/</link>
       <pubDate>Tue, 12 Apr 2022 12:48:49 +0400</pubDate>
       
       <guid>https://hot-meal.github.io/posts/advice-for-juniors/</guid>
-      <description>If you’re junior developer, you will probably assume that every word from the senior developers is a pearl of wisdom. In many cases they will be, if you’re lucky.
-But unfortunately not all senior developers are created (or promoted) equal.
-For every company with knowledgeable, helpful senior developers exists another populated by small people with small minds, whose main qualification isn’t technical ability, but hanging around for a long time, managing not to get fired, and stumbling into promotions with titles like “senior” or “principal.</description>
+      <description>If you’re junior developer, you might assume that every word from the senior developers is a pearl of wisdom. sometimes they will be, if you’re lucky.
+But not all senior developers are created (or promoted) equal.
+For every knowledgeable, helpful senior developer exists another small person with small power, whose main qualification isn’t technical ability, but hanging around for a long time, managing not to get fired, and stumbling into promotions with titles like “senior” or “principal.</description>
     </item>
     
     <item>
@@ -55,9 +45,10 @@ For every company with knowledgeable, helpful senior developers exists another p
       <pubDate>Mon, 28 Mar 2022 16:35:42 +0400</pubDate>
       
       <guid>https://hot-meal.github.io/posts/love-js-php/</guid>
-      <description>There are only two kinds of languages: the ones people complain about and the ones nobody uses. Bjarne Stroustrup (Inventor of C&amp;#43;&amp;#43;) Over the last fifteen years, I&amp;rsquo;ve used over a dozen languages, from Classic ASP to Python, from .Net to Ruby.
+      <description>There are only two kinds of languages: the ones people complain about and the ones nobody uses.Bjarne Stroustrup (Inventor of C&amp;#43;&amp;#43;)I&amp;rsquo;ve used many languages in my career, Classic ASP to Python, from .Net to Ruby.
 Yet, I still keep coming back to PHP and Javascript.
-I&amp;rsquo;ve found over my career that PHP and Javascript are primarily used by people who get shit done.</description>
+I&amp;rsquo;ve find that PHP and Javascript are used by people who get shit done.
+They are pragmatic They understand business needs They can scaffold and iterate quickly They have launched and maintained many projects of all levels of quality There has been no shortage of cargo-culting in Web Development.</description>
     </item>
     
     <item>
@@ -67,8 +58,8 @@ I&amp;rsquo;ve found over my career that PHP and Javascript are primarily used b
       
       <guid>https://hot-meal.github.io/posts/smaller-systems/</guid>
       <description>There are many things that can push you towards building a bigger, more complex system, up-front.
-Such as budget allocation, an inability to decide which features to cut, or a desire to deliver the “best version” of a system.
-These things all push us towards building too much. You should always fight this.
+These include budget allocation, excitement, an inability to decide which features to cut, or a desire to deliver the “best version” of a system.
+These things can push us towards building too much up front.
 We learn so much as we&amp;rsquo;re building a system that we end up iterating into a much better system than we ever would have designed in the first place.</description>
     </item>
     
@@ -78,10 +69,11 @@ We learn so much as we&amp;rsquo;re building a system that we end up iterating i
       <pubDate>Fri, 24 Dec 2021 20:43:59 +0400</pubDate>
       
       <guid>https://hot-meal.github.io/posts/evidence/</guid>
-      <description>Code reviews can serve as a great educational tool. Or they can kill your spirit.
+      <description>Code reviews can serve as a great educational tool. Or they can undermine your motivation.
 More likely, they will just fall somewhere between an enlightening experience and pointless arguing.
-You may hear things like “that’s not a good idea” or “this is not efficient.” You may also say those things. And you will most likely be hearing them with absolutely no appearance of evidence at all.
-You can fix this.</description>
+You may hear things like “that’s not a good idea” or “this is not efficient.” You may also say those things. And you will most likely be hearing them with absolutely no evidence at all.
+You can fix this.
+If during code reviews, it seems like people are walking all over you or any other type of collaborative effort within your team or company, then evidence is your friend.</description>
     </item>
     
     <item>
@@ -90,29 +82,40 @@ You can fix this.</description>
       <pubDate>Sun, 31 Oct 2021 23:59:00 +0400</pubDate>
       
       <guid>https://hot-meal.github.io/posts/tdd/</guid>
-      <description>Test Driven Development (TDD) was a real game-changer for me.
-When it comes to programming, or anything tech-related, we, as an industry, generally go pretty nuts with our biases.
+      <description>Test Driven Development (TDD) can be a real game-changer.
+When it comes to programming, we, as an industry, generally go pretty extreme with our biases.
 IDE vs text editor? MacOS, Windows, or Linux? What do you think of PHP? Tabs or spaces? If you bring any of these up in a discussion, you will observe terminally stupid shouting matches occur between those with strong opinions.
-So with this in mind, I accept that I’m wading into somewhat similar territory here with to TDD or not to TDD.</description>
+So with that in mind, I accept that I’m wading into somewhat similar area here with to TDD or not to TDD.</description>
     </item>
     
     <item>
-      <title>Managing Change</title>
+      <title>Five More Lessons</title>
+      <link>https://hot-meal.github.io/posts/lessons/</link>
+      <pubDate>Wed, 16 Jun 2021 10:55:09 +0400</pubDate>
+      
+      <guid>https://hot-meal.github.io/posts/lessons/</guid>
+      <description>Every couple of years the industry changes, and so do the people you work with. New developers don’t understand the problems of the past because they&amp;rsquo;ve never seen them. Older developers burn out or lose excitement. New developers have a different reference frame, and they learn in different ways.
+When you fix an issue, you should really understand the issue that you’re fixing. Take a few steps back and try to re-integrate any new knowledge into the design.</description>
+    </item>
+    
+    <item>
+      <title>Engineering Lessons</title>
       <link>https://hot-meal.github.io/posts/more-lessons/</link>
       <pubDate>Wed, 09 Jun 2021 13:10:22 +0400</pubDate>
       
       <guid>https://hot-meal.github.io/posts/more-lessons/</guid>
-      <description>Innovation is not always linear. Many times you need to make something worse before you can make it better.
-When you replace an old legacy system, you need to do it incrementally. step-by-step, otherwise it can be too much risk for stakeholders to support fully. This means you won’t actually see the benefits of replacing something until the end. When you’re adding new things, you&amp;rsquo;re also likely regressing. So manage expectations.</description>
+      <description>Innovation isn&amp;rsquo;t linear. Often you need to make something worse before you can make it better.
+When you replace an old system, you need to do it incrementally, otherwise it can be too much risk for stakeholders to support fully. You won’t actually see the benefits of replacing something until the end. When you’re adding new things, you&amp;rsquo;re also probably regressing. So manage expectations.
+It&amp;rsquo;s good to let users try a new thing one piece at a time.</description>
     </item>
     
     <item>
-      <title>Always Ask Why</title>
+      <title>Value of Asking &#39;Why?&#39;</title>
       <link>https://hot-meal.github.io/posts/nobody-asks-why/</link>
       <pubDate>Fri, 21 May 2021 22:33:25 +0400</pubDate>
       
       <guid>https://hot-meal.github.io/posts/nobody-asks-why/</guid>
-      <description>When you grow up you tend to get told the world is the way it is and you&#39;re life is just to live your life inside the world... Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it Steve Jobs I believe you should take every opportunity in life, and work to question assumptions and approaches that are “this is the way things have always been done”.</description>
+      <description>When you grow up you tend to get told the world is the way it is and you&#39;re life is just to live your life inside the world...Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence itSteve JobsI believe you should take every opportunity in life, and work to question assumptions and approaches that are “this is the way things have always been done”.</description>
     </item>
     
     <item>

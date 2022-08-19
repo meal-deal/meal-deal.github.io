@@ -190,8 +190,8 @@ blockquote,
 </time>
 
 <h1>Don&rsquo;t Repeat Yourself</h1>
-<p>If someone hasn’t yet lectured you about copying code in your application, pasting it, then adjusting it (the “copy, paste, and adjust to taste” anti-pattern), consider this your lecture.</p>
-<p>Let&rsquo;s imagine you have a perfectly good CalculateTax() method, but the product manager comes along and asks, “we’re onboarding new customers in Germany, and they calculate taxes a little differently there.”  So you then copy the current method, paste it, rename it CalculateTaxGermany() and tweak it as needed.</p>
+<p>If someone hasn’t yet warned you about copying code in your application, pasting it, then adjusting it (the “copy, paste, and adjust to taste” anti-pattern), then consider this your warning.</p>
+<p>Imagine you have a perfectly fine CalculateTax() method, but the product manager comes along and asks, “we’re expanding to Germany, and they calculate taxes a little differently there.”  So you then copy the current method, paste it, rename it CalculateTaxGermany() and tweak it as needed.</p>
 <p>Here are some problems with this approach:</p>
 <ol>
 <li>If a future update requires changes to the core logic, you now have to do the extra work and modify 2 methods.</li>
@@ -201,10 +201,10 @@ blockquote,
 <li>It’s then only a matter of time before you introduce more bugs by forgetting to change things everywhere you now need to.</li>
 <li>Eventually, all of these methods will differ from each other just enough that you can no longer easily merge them back together and fix the whole mess, but they also won&rsquo;t differ so much that you can avoid making 20 changes every time someone updates a taxation rule.</li>
 </ol>
-<p>It’s really a horrible mess.  This copy-paste anti-pattern is only the surface level problem.</p>
+<p>It’s quickly becomes a mess,  and this anti-pattern is only the surface level problem.</p>
 <p>The real underlying problem is the general duplication of knowledge in your codebases.</p>
-<p>Duplication of knowledge in your code can occur in many ways, lazy copy-pasta is just the most obvious version.</p>
-<p>Here are some more insiduous examples of duplicate knowledge:</p>
+<p>Duplication of knowledge in your code can occur in many ways, lazy copy-paste is just the most obvious version.</p>
+<p>Here are some more examples of duplicate knowledge:</p>
 <ul>
 <li>
 <p>A for loop and with a comment above it explaining the start, end, and increment values.</p>
@@ -216,7 +216,6 @@ blockquote,
 <p>A database table with columns “taxTotal,” “Tax,” and “Total”</p>
 </li>
 </ul>
-<p>In the case of a unnecessary code comment, it could just be the team’s chief nagging officer brow-beating you into always checking or adding comments when you update code.</p>
 <p>You should always ruthlessly resist duplication of knowledge anywhere in your codebases.</p>
 
     </article>

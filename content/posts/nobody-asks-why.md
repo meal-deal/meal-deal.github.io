@@ -1,5 +1,5 @@
 ---
-title: "Always Ask Why"
+title: "Value of Asking 'Why?'"
 date: 2021-05-21T22:33:25+04:00
 tags:
   - engineering

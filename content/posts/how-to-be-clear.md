@@ -1,5 +1,5 @@
 ---
-title: "How to Write Clearly"
+title: "Writing with Clarity"
 date: 2022-06-14T14:49:39+04:00
 tags:
   - writing
@@ -64,14 +64,6 @@ It helps you avoid going down the wrong path, and focus the content of the comms
 If you can’t identify and clearly express the purpose up front, stop working on it and find out why the purpose is so muddy. 
 
 Sometimes, that will mean you stop completely; other times, it will help you and your colleagues re-think what this piece of comms is for, and create something better as a result.
-
-Those audiences I’ve described: they could be your customers. Your funders. Your boss. Your boss’s boss.
-
-They could be colleagues in your organisation, who wish to make sure they’re not repeating work that you’re already doing.
-
-They could be people in other organisations, who would like to learn from your mistakes.
-
-They could be potential new hire, who are keeping an eye on your organisation and want to know what it’s like to work there.
 
 Every audience has slightly different needs, and knows slightly different things about you and your work. The way to meet all these needs for all these people is to simplify.
 
