@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>communication on mzo84s blog</title>
+    <link>https://mzo84.github.io/blog/tags/communication/</link>
+    <description>Recent content in communication on mzo84s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 14 Jun 2022 14:49:39 +0400</lastBuildDate><atom:link href="https://mzo84.github.io/blog/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Write Clearly</title>
+      <link>https://mzo84.github.io/blog/posts/how-to-be-clear/</link>
+      <pubDate>Tue, 14 Jun 2022 14:49:39 +0400</pubDate>
+      
+      <guid>https://mzo84.github.io/blog/posts/how-to-be-clear/</guid>
+      <description>Think about the readers needs The most valuable strategy for communication is the simplest: clarity.
+When you communicate with clarity, people spend less time trying to interpret what you’re saying.
+As a result, they’ll understand you faster, and with less effort.
+Try to make what you’re saying quick to read and understand, people will then read more of it, and ask fewer questions afterwards.
+It helps to be a user-centered, or reader-centered.</description>
+    </item>
+    
+  </channel>
+</rss>

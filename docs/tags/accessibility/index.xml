@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>accessibility on mzo84s blog</title>
+    <link>https://mzo84.github.io/blog/tags/accessibility/</link>
+    <description>Recent content in accessibility on mzo84s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 22 Feb 2022 13:44:19 +0400</lastBuildDate><atom:link href="https://mzo84.github.io/blog/tags/accessibility/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Accessible Copy</title>
+      <link>https://mzo84.github.io/blog/posts/accessibility-a11y/</link>
+      <pubDate>Tue, 22 Feb 2022 13:44:19 +0400</pubDate>
+      
+      <guid>https://mzo84.github.io/blog/posts/accessibility-a11y/</guid>
+      <description>When writing, it&amp;rsquo;s important to use plain language and avoid figures of speech, idioms, and complicated metaphors. You can use this readability analyser to asssess how accessible your copy is.
+The text content of button, a, and label elements should be unique and descriptive. You can also use visually hidden elements to add more context to these elements if your visual copy needs to be short.
+Center-aligned or justified text is difficult to read.</description>
+    </item>
+    
+  </channel>
+</rss>

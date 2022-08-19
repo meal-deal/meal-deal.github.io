@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+  <meta name="generator" content="Hugo 0.101.0" />
+
+  
+  <meta name="description" content="Some description">
+  
+
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="https://mzo84.github.io/blog/apple-touch-icon.png">
+
+  
+  <link rel="icon" type="image/png" sizes="32x32" href="https://mzo84.github.io/blog/favicon-32x32.png">
+
+  
+  <link rel="icon" type="image/png" sizes="16x16" href="https://mzo84.github.io/blog/favicon-16x16.png">
+
+  
+  <link rel="manifest" href="https://mzo84.github.io/blog/site.webmanifest">
+
+  
+  <link rel="mask-icon" href="https://mzo84.github.io/blog/safari-pinned-tab.svg" color="#5bbad5">
+
+  <meta name="msapplication-TileColor" content="#da532c">
+
+  <meta name="theme-color" content="#ffffff">
+
+  
+  <link rel="stylesheet" href="https://mzo84.github.io/blog/css/bootstrap.min.css" />
+
+  
+  <title>Why JavaScript and PHP are Evergreen | mzo84s blog</title>
+  
+
+  <style>
+body {
+  min-width: 300px;
+}
+
+.custom-navbar {
+  margin-bottom: 1em;
+  height: 60px;
+}
+
+.custom-navbar a {
+  display: inline-block; 
+  padding: 18px 0;
+  margin-right: 1em; 
+  font-weight: bold; 
+}
+
+.custom-navbar a:hover,
+.custom-navbar a:focus {
+  text-decoration: none; 
+}
+
+@media print {
+  .custom-navbar {
+    display: none;
+  }
+}
+
+article {
+  padding-bottom: 1em;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+body {
+  background-color: #fff;
+}
+
+
+
+body {
+  color: #212529;
+}
+
+
+
+a {
+  color: #007bff;
+}
+
+
+
+a:hover,
+a:focus {
+  color: #0056b3;
+}
+
+
+
+.custom-navbar {
+  background-color: #212529;
+}
+
+
+
+.custom-navbar a {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+
+
+.custom-navbar a:hover,
+.custom-navbar a:focus {
+  color: rgba(255, 255, 255, 1);
+}
+
+
+
+.container {
+  max-width: 800px;
+}
+
+
+
+pre {
+  display: block;
+  padding: 9.5px;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+pre code {
+  padding: 0;
+  font-size: inherit;
+  color: inherit; 
+  white-space: pre-wrap;
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+}
+
+code {
+  padding: 2px 4px;
+  color: inherit; 
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: .9em;
+}
+
+
+
+blockquote,
+.blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 1em;
+  border-left: 5px solid #6c757d;
+}
+
+</style>
+</head>
+
+<body>
+  <nav class="custom-navbar">
+  <div class="container">
+    
+    <a href="/blog/">Posts</a>
+    
+    <a href="/blog/tags/">Tags</a>
+    
+    <a href="/blog/about/">About</a>
+    
+    <a href="/blog/index.xml">RSS</a>
+    
+  </div>
+</nav>
+
+  <div class="container">
+    <article>
+      <time> <small class="text-secondary">
+        
+        
+        Mar 28, 2022</small>
+</time>
+
+<h1>Why JavaScript and PHP are Evergreen</h1>
+<blockquote class="blockquote">
+  <p class="mb-0">
+There are only two kinds of languages: the ones people complain about and the ones nobody uses.
+</p>
+  
+  <footer class="blockquote-footer">Bjarne Stroustrup (Inventor of C&#43;&#43;)</footer>
+  
+</blockquote>
+<p>Over the last fifteen years, I&rsquo;ve used over a dozen languages, from Classic ASP to Python, from .Net to Ruby.</p>
+<p>Yet, I still keep coming back to PHP and Javascript.</p>
+<p>I&rsquo;ve found over my career that PHP and Javascript are primarily <mark>used by people who get shit done</mark>.</p>
+<ul>
+<li>They are pragmatic and understand and prioritise business needs</li>
+<li>They can scaffold and iterate quickly</li>
+<li>They have launched and maintained many projects of all levels of quality</li>
+</ul>
+<p>There has been no shortage of cargo-culting throughout the years. Particularly in Web Development. How many trees have been burnt on React alone?</p>
+<p>So it bears saying, PHP8 is not PHP3, ECMAScript 12 is not 2010s Javascript.</p>
+<p>These ecosystems have progressed a lot over the years.</p>
+<p>They have also put a lot of development pressure on other languages. With its almost daily new paradigms and frameworks, Javascript has been a true hotbed of innovation (and frustration, for some) for years.</p>
+<p>These languages may not popular for their simple elegance, but for other more practical reasons:</p>
+<ul>
+<li>Speed &amp; ease of deployment</li>
+<li>Large choice of Tooling</li>
+<li>Large choice of frameworks</li>
+<li>Many platforms and runtime environments</li>
+</ul>
+<p>PHP, because of its cgi-bin model also has many benefits:</p>
+<ul>
+<li>Fairly easy to refactor legacy codebases in increments</li>
+<li>Resource leaks are almost non-existent</li>
+<li>Caching and scaling are a lot easier to manage</li>
+</ul>
+<p>These languages are also fun. They have a level of immediacy. There is some pleasure to be had finding ways to write elegant code in a language that doesn&rsquo;t prescribe any.</p>
+<p>As these languages are very flexibile and permissive, they also allow people of all different skill levels and backgrounds to get going with programming. You can be a complete beginner with PHP and get a real website going within a day.</p>
+<p>Over the years, I have found that writing good software is much more than the choice of language:</p>
+<ul>
+<li>Having good naming and design patterns</li>
+<li>Enforcing invariants with static analysis or unit testing</li>
+<li>Providing effective and rapid feedback loops to developers</li>
+<li>Having strong team communication</li>
+</ul>
+<p>None of these depend on the choice of language.</p>
+
+    </article>
+  </div>
+
+  
+  
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-123456789-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  
+
+  
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#216942",
+      "text": "#b2d192"
+    },
+    "button": {
+      "background": "#afed71"
+    }
+  }
+})});
+</script>
+
+</body>
+
+</html>

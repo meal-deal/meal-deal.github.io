@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on mzo84s blog</title>
+    <link>https://mzo84.github.io/blog/tags/web/</link>
+    <description>Recent content in web on mzo84s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 11 Aug 2020 11:47:12 +0400</lastBuildDate><atom:link href="https://mzo84.github.io/blog/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Simpler Front-end Toolset</title>
+      <link>https://mzo84.github.io/blog/posts/2020-08-11-simple-front-end/</link>
+      <pubDate>Tue, 11 Aug 2020 11:47:12 +0400</pubDate>
+      
+      <guid>https://mzo84.github.io/blog/posts/2020-08-11-simple-front-end/</guid>
+      <description>When looking to start a simple front end project, many people may default to using things like React, TypeScript, Vite, or Tailwind.
+Instead, here are some recommendations that don&amp;rsquo;t require using Node or NPM.
+CSS Use a &amp;ldquo;classless&amp;rdquo; CSS library like CSSBed or Pico.css.
+It&amp;rsquo;s similar to Bootstrap, but doesn&amp;rsquo;t require writing any CSS or adding any CSS classes to your HTML. Just include the &amp;lt;link&amp;gt; tag in your HTML document.</description>
+    </item>
+    
+  </channel>
+</rss>

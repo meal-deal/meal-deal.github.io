@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>react on lightgoldenrodyellow</title>
+    <link>https://mzo84.github.io/blog/tags/react/</link>
+    <description>Recent content in react on lightgoldenrodyellow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Mar 2022 17:12:29 +0400</lastBuildDate><atom:link href="https://mzo84.github.io/blog/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The (un)Ergonomics of React Hooks</title>
+      <link>https://mzo84.github.io/blog/posts/react-hooks/</link>
+      <pubDate>Sat, 26 Mar 2022 17:12:29 +0400</pubDate>
+      
+      <guid>https://mzo84.github.io/blog/posts/react-hooks/</guid>
+      <description>Any veteran of the JavaScript framework landscape would probably agree that the idea of hooks as a superior paradigm as being a little ridiculous.
+If a linter is required to inform you when you&amp;rsquo;re writing a bug, one that is not immediately obvious, then this is a failing in the framework to round those sharp edges.
+Lints are not rounded edges!
+The simplicity that comes with hooks is a trade-off of complexity that is now completely out of sight, and only appears once the code is run in a linter.</description>
+    </item>
+    
+  </channel>
+</rss>
