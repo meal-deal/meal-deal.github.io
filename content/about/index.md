@@ -23,4 +23,12 @@ On the Back-end:
 
 Outside of work, I'm interested in film, music and non-fiction literature.
 
+
+## Projects
+
+Most of my professional work is covered by NDA. Although here are a few projects i have worked on in the past, updated sporadically.
+
+- [JavaScript: Best Practices](https://github.com/hot-meal/javascript-best-practices) Some good practices when writing JavaScript.
+- [Flexi Grid]() A Grid system built with Flexbox. Before CSS Grid had wide browser support.
+
 This site is published under the [MIT License](https://choosealicense.com/licenses/mit/).
