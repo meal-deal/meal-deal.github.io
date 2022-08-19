@@ -1,6 +1,6 @@
-baseURL = "https://mzo84.github.io/blog" 
+baseURL = "https://hot-meal.github.io/" 
 languageCode = "en-gb"
-title = "mzo84s blog"
+title = "hot-meal"
 theme = "minimal-bootstrap-hugo-theme"
 publishDir = "docs"
 
