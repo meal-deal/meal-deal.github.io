@@ -8,15 +8,14 @@
     <language>en-gb</language>
     <lastBuildDate>Mon, 28 Mar 2022 16:35:42 +0400</lastBuildDate><atom:link href="https://hot-meal.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why JavaScript and PHP are Evergreen</title>
+      <title>Why JavaScript and PHP are evergreen</title>
       <link>https://hot-meal.github.io/posts/love-js-php/</link>
       <pubDate>Mon, 28 Mar 2022 16:35:42 +0400</pubDate>
       
       <guid>https://hot-meal.github.io/posts/love-js-php/</guid>
-      <description>There are only two kinds of languages: the ones people complain about and the ones nobody uses.Bjarne Stroustrup (Inventor of C&amp;#43;&amp;#43;)I&amp;rsquo;ve used many languages in my career, Classic ASP to Python, from .Net to Ruby.
-Yet, I still keep coming back to PHP and Javascript.
-I&amp;rsquo;ve find that PHP and Javascript are used by people who get shit done.
-They are pragmatic They understand business needs They can scaffold and iterate quickly They have launched and maintained many projects of all levels of quality There has been no shortage of cargo-culting in Web Development.</description>
+      <description>There are only two kinds of languages: the ones people complain about and the ones nobody uses.Bjarne Stroustrup (Inventor of C&amp;#43;&amp;#43;)I always keep coming back to PHP and Javascript.
+I found that PHP and Javascript are used by people who get shit done.
+They are pragmatic They understand business needs They can iterate quickly They have launched and maintained many projects There has been no shortage of cargo-culting in Web Development.</description>
     </item>
     
   </channel>

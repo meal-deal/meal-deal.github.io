@@ -1,5 +1,5 @@
 ---
-title: "Why JavaScript and PHP are Evergreen"
+title: "Why JavaScript and PHP are evergreen"
 date: 2022-03-28T16:35:42+04:00
 tags:
   - engineering
@@ -11,39 +11,36 @@ tags:
 There are only two kinds of languages: the ones people complain about and the ones nobody uses.
 {{< /blockquote >}}
 
-I've used many languages in my career, Classic ASP to Python, from .Net to Ruby.
+I always keep coming back to PHP and Javascript.
 
-Yet, I still keep coming back to PHP and Javascript.
-
-I've find that PHP and Javascript are <mark>used by people who get shit done</mark>.
+I found that PHP and Javascript are <mark>used by people who get shit done</mark>.
 
 - They are pragmatic 
 - They understand business needs
-- They can scaffold and iterate quickly
-- They have launched and maintained many projects of all levels of quality
+- They can iterate quickly
+- They have launched and maintained many projects
   
 There has been no shortage of cargo-culting in Web Development. So it bears saying, PHP8 is not PHP3, ECMAScript 12 is not 2010s Javascript.
 
-Javascript particularly has been a true hotbed of innovation for years.
+Javascript especially has been a hotbed of innovation for years.
 
-Although, they may not popular for their elegance, they have seem real practical benefits:
-- Speed & ease of deployment
-- Large choice of Tooling
-- Large choice of frameworks
-- Many platforms and runtime environments
+They may not popular for their elegance, but they have seem real practical benefits:
+- speed and ease of deployment
+- large choice of tooling
+- large choice of frameworks
+- many platforms and runtime environments
   
 
-PHP, because of its cgi-bin model also has many benefits:
-- Fairly easy to refactor legacy codebases in increments
-- Resource leaks are almost non-existent
-- Caching and scaling are a lot easier to manage
+PHP, also because of its cgi-bin model has many benefits:
+- easy to refactor legacy codebases in increments
+- resource leaks are almost non-existent
+- caching and scaling are a lot easier to manage
   
-These languages also have a level of immediacy. There is pleasure in finding ways to write elegant code in a language that doesn't prescribe any.
+These languages also have a higher level of immediacy and there is a pleasure in finding ways to write elegant code in a language that doesn't prescribe any.
 
-They are very flexibile and permissive, allowing people of different skill levels to get going with programming. You can be a complete beginner with PHP and get a website going within a few hours.
+They are also very flexibile and permissive, allowing people of different skill levels to get going with programming. 
 
 I believe writing good software is much more than the choice of language:
-
 - Having good naming and design conventions and patterns
 - Enforcing invariants with static analysis or unit testing
 - Providing effective and rapid feedback loops to developers
