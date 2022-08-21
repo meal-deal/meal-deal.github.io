@@ -12,7 +12,7 @@ publishDir = "docs"
   post = "/:filename/"
 
 [params]
-  description = "Some description"
+  description = "Personal Blog of Github user hot-meal"
   contentBackgroundColor = "#fff"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"
