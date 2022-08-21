@@ -7,26 +7,32 @@ I'm a web developer, technical consultant and writer with over 15 years experien
 
 I enjoy mentoring developers, optimising processes, and finding pragmatic solutions to engineering problems.
 
-On the Front-end I'm proficient with:
+On the front-end I'm proficient with:
 - javascript, node, react 
 - html, css, sass
 
-On the Back-end:
+On the back-end:
 - python, php, bash automation, cli
 
-Outside of work, I'm interested in film, music and non-fiction literature.
+I'm also interested in film, music and non-fiction literature.
 
 ## Projects
 
-Here are a few projects i have worked on in the past which are updated sporadically. Most of my professional work is covered by an NDA. 
+Some projects I've worked on over the years. Rarely updated. 
+(Most of my professional work is under NDA.)
 
-- [JavaScript for Lazy Developers](https://github.com/hot-meal/javascript-best-practices)
-   Some good practices for writing JavaScript.
-
-- [CSS and HTML for Lazy Developers](https://github.com/hot-meal/css-html-guide-for-lazy-developers)
-   Good practices for writing html and css.
-
+- [Ubuntu React](https://hot-meal.github.io/ubuntu-demo/)
+  A clone of Ubuntu built with React and Next.
+- [JavaScript Guide](https://hot-meal.github.io/javascript-guide/)
+- [CSS and HTML Guide](https://hot-meal.github.io/css-html-guide/)
+- [Mango](https://github.com/hot-meal/mango) 
+  A tiny 400 byte javascript templating language.
+- [Mango-PHP](https://github.com/hot-meal/mango-php)
+  A tiny 400 byte php templating language.
+- [HTML to Image](https://hot-meal.github.io/html-to-image/)
+  Generates an image from an HTML file with Node js cli.
+- [ColourGen](https://hot-meal.github.io/colourGen/)
+  Generates random attractive colours.
 - [Flexi Grid](https://github.com/hot-meal/flexi-grid) 
-  A Grid system built with Flexbox. Before CSS Grid had wide browser support.
+  A Grid system built with Flexbox. _Before CSS Grid had wide browser support._
 
-This site is published under the [MIT License](https://choosealicense.com/licenses/mit/).
