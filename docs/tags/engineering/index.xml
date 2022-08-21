@@ -19,6 +19,19 @@ Some misguided people have gone so far as to use lines of code generated per hou
     </item>
     
     <item>
+      <title>The Root of All Evil</title>
+      <link>https://hot-meal.github.io/posts/optimisation/</link>
+      <pubDate>Sun, 22 May 2022 16:25:33 +0400</pubDate>
+      
+      <guid>https://hot-meal.github.io/posts/optimisation/</guid>
+      <description>First make it work, then make it right… Kent BeckPremature optimisation. It can be the root of all evil.
+Planning and coding are very much iterative processes.
+You take small steps, focusing on making things work first. Only then can you really start thinking about optimisation.
+If you already have working code, the planning then gets easier because there are fewer unknowns or hypotheticals.
+You then take a few steps back, plan things out for a while, re-asses the big picture, then try to adjust things based on your observations.</description>
+    </item>
+    
+    <item>
       <title>Don&#39;t Repeat Yourself</title>
       <link>https://hot-meal.github.io/posts/duplication/</link>
       <pubDate>Sat, 14 May 2022 13:29:27 +0400</pubDate>
