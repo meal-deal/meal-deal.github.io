@@ -1,5 +1,5 @@
 ---
-title: "Writing Accessible Copy"
+title: "Accessible Copy"
 date: 2022-02-22T13:44:19+04:00
 tags:
   - accessibility

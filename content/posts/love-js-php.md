@@ -1,5 +1,5 @@
 ---
-title: "Why JavaScript and PHP are evergreen"
+title: "JavaScript and PHP"
 date: 2022-03-28T16:35:42+04:00
 tags:
   - engineering

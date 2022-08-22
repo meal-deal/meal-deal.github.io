@@ -32,7 +32,7 @@ Think about what your readers might already know The thing you wish to communica
     </item>
     
     <item>
-      <title>The Root of All Evil</title>
+      <title>Root of All Evil</title>
       <link>https://hot-meal.github.io/posts/optimisation/</link>
       <pubDate>Sun, 22 May 2022 16:25:33 +0400</pubDate>
       
@@ -66,7 +66,7 @@ For every knowledgeable, helpful senior developer exists another small person wi
     </item>
     
     <item>
-      <title>Why JavaScript and PHP are evergreen</title>
+      <title>JavaScript and PHP</title>
       <link>https://hot-meal.github.io/posts/love-js-php/</link>
       <pubDate>Mon, 28 Mar 2022 16:35:42 +0400</pubDate>
       
@@ -77,7 +77,7 @@ They are pragmatic They understand business needs They can iterate quickly They 
     </item>
     
     <item>
-      <title>Writing Accessible Copy</title>
+      <title>Accessible Copy</title>
       <link>https://hot-meal.github.io/posts/accessibility-a11y/</link>
       <pubDate>Tue, 22 Feb 2022 13:44:19 +0400</pubDate>
       
@@ -88,7 +88,7 @@ Center-aligned or justified text is difficult to read.</description>
     </item>
     
     <item>
-      <title>Always Build Smaller Systems</title>
+      <title>Build Smaller</title>
       <link>https://hot-meal.github.io/posts/smaller-systems/</link>
       <pubDate>Tue, 18 Jan 2022 14:30:40 +0400</pubDate>
       
@@ -100,7 +100,7 @@ We learn so much as we&amp;rsquo;re building a system that we end up iterating i
     </item>
     
     <item>
-      <title>The Value of Evidence</title>
+      <title>Value of Evidence</title>
       <link>https://hot-meal.github.io/posts/evidence/</link>
       <pubDate>Fri, 24 Dec 2021 20:43:59 +0400</pubDate>
       
@@ -113,7 +113,7 @@ If during code reviews, it seems like people are walking all over you or any oth
     </item>
     
     <item>
-      <title>The Benefits of Test Driven Development</title>
+      <title>Test Driven Development</title>
       <link>https://hot-meal.github.io/posts/tdd/</link>
       <pubDate>Sun, 31 Oct 2021 23:59:00 +0400</pubDate>
       
@@ -158,7 +158,7 @@ It&amp;rsquo;s good to let users try a new thing one piece at a time.</descripti
     </item>
     
     <item>
-      <title>Value of Asking &#39;Why?&#39;</title>
+      <title>Asking &#39;Why?&#39;</title>
       <link>https://hot-meal.github.io/posts/nobody-asks-why/</link>
       <pubDate>Fri, 21 May 2021 22:33:25 +0400</pubDate>
       
@@ -167,7 +167,7 @@ It&amp;rsquo;s good to let users try a new thing one piece at a time.</descripti
     </item>
     
     <item>
-      <title>Leveraging the CSS Cascade</title>
+      <title>The CSS Cascade</title>
       <link>https://hot-meal.github.io/posts/use-the-css-cascade/</link>
       <pubDate>Fri, 14 May 2021 13:39:40 +0400</pubDate>
       
@@ -189,7 +189,7 @@ People began instead choosing to publish their content on centralised platforms 
     </item>
     
     <item>
-      <title>A Simpler Front-end Toolset</title>
+      <title>Simpler Front-end Toolset</title>
       <link>https://hot-meal.github.io/posts/2020-08-11-simple-front-end/</link>
       <pubDate>Tue, 11 Aug 2020 11:47:12 +0400</pubDate>
       

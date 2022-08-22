@@ -1,5 +1,5 @@
 ---
-title: "The Value of Evidence"
+title: "Value of Evidence"
 date: 2021-12-24T20:43:59+04:00
 tags:
   - engineering

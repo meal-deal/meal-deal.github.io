@@ -1,5 +1,5 @@
 ---
-title: "A Simpler Front-end Toolset"
+title: "Simpler Front-end Toolset"
 date: 2020-08-11T11:47:12+04:00
 slug: 2020-08-11-simple-front-end
 type: posts

@@ -1,5 +1,5 @@
 ---
-title: "The Root of All Evil"
+title: "Root of All Evil"
 date: 2022-05-22T16:25:33+04:00
 tags:
   - engineering

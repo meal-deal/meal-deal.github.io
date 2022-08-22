@@ -1,5 +1,5 @@
 ---
-title: "Value of Asking 'Why?'"
+title: "Asking 'Why?'"
 date: 2021-05-21T22:33:25+04:00
 tags:
   - engineering

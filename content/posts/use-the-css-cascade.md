@@ -1,5 +1,5 @@
 ---
-title: "Leveraging the CSS Cascade"
+title: "The CSS Cascade"
 date: 2021-05-14T13:39:40+04:00
 tags:
   - engineering

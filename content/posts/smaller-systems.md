@@ -1,5 +1,5 @@
 ---
-title: "Always Build Smaller Systems"
+title: "Build Smaller"
 date: 2022-01-18T14:30:40+04:00
 tags:
   - engineering
