@@ -3,9 +3,11 @@ title: "About"
 date: 2021-01-22T13:44:19+04:00
 ---
 
-I'm a web developer, technical consultant and writer with over 15 years experience.
+I'm a web developer with over 15 years experience.
 
-I enjoy mentoring developers, optimising processes, and finding pragmatic solutions to engineering problems.
+I enjoy mentoring developers, optimising processes, and finding pragmatic solutions.
+
+I understand business needs and get things done.
 
 On the front-end I'm proficient with:
 - javascript, node, react 
@@ -14,11 +16,17 @@ On the front-end I'm proficient with:
 On the back-end:
 - python, php, bash automation, cli
 
-I'm also interested in film, music and non-fiction literature.
+I'm also interested in 
+- marketing
+- writing
+- security and privacy
+- blockchain
+- film, music, non-fiction literature
+- [pragmatism](https://www.wikiwand.com/en/Pragmatism)
 
 ## Projects
 
-Some projects I've worked on over the years. Rarely updated. 
+Some hobby projects I've worked on over the years. Rarely updated. 
 (Most of my professional work is under NDA.)
 
 - [Ubuntu React](https://hot-meal.github.io/ubuntu-demo/)
