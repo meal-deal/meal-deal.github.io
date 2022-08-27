@@ -29,10 +29,15 @@ I'm also interested in
 Some hobby projects I've worked on over the years. Rarely updated. 
 (Most of my professional work is under NDA.)
 
+### Code
+- [StringToURL](https://hot-meal.github.io/string-to-url/)
+  Convert any text-file into an encrypted shareable URL.
+- [Konekrate](https://hot-meal.github.io/konekrate/)
+  Ethereum smart contract generator.
 - [Ubuntu React](https://hot-meal.github.io/ubuntu-demo/)
   A clone of Ubuntu built with React and Next.
-- [JavaScript Guide](https://hot-meal.github.io/javascript-guide/)
-- [CSS and HTML Guide](https://hot-meal.github.io/css-html-guide/)
+- [Plum](https://hot-meal.github.io/plum/)
+  Class-less CSS framework.
 - [Mango](https://github.com/hot-meal/mango) 
   A tiny 400 byte javascript templating language.
 - [Mango-PHP](https://github.com/hot-meal/mango-php)
@@ -43,4 +48,9 @@ Some hobby projects I've worked on over the years. Rarely updated.
   Generates random attractive colours.
 - [Flexi Grid](https://github.com/hot-meal/flexi-grid) 
   A Grid system built with Flexbox. _Before CSS Grid had wide browser support._
+
+
+### Writing
+  - [JavaScript Guide](https://hot-meal.github.io/javascript-guide/)
+  - [CSS and HTML Guide](https://hot-meal.github.io/css-html-guide/)
 
