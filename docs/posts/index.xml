@@ -6,20 +6,7 @@
     <description>Recent content in Posts on hot-meal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 27 Aug 2022 15:02:58 +0400</lastBuildDate><atom:link href="https://meal-deal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Art of the Headline</title>
-      <link>https://meal-deal.github.io/posts/great-headline/</link>
-      <pubDate>Sat, 27 Aug 2022 15:02:58 +0400</pubDate>
-      
-      <guid>https://meal-deal.github.io/posts/great-headline/</guid>
-      <description>The purpose of a headline is to get your audience to read the second line.
-The art of writing a great headline can be broken down into a formula:
-Great Headline = End Result User Wants + Specific Period Of Time + Address The Objections
-The key is to tell the user in seconds what your communication or product will actually do for them, not what it is.
-This also encourages the headline writer to think about the customer, and not about their product.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 16 Jun 2022 22:28:53 +0400</lastBuildDate><atom:link href="https://meal-deal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Write Less Code</title>
       <link>https://meal-deal.github.io/posts/write-less-code/</link>
@@ -135,6 +122,19 @@ If during code reviews, it seems like people are walking all over you or any oth
 When it comes to programming, we, as an industry, generally go pretty extreme with our biases.
 IDE vs text editor? MacOS, Windows, or Linux? What do you think of PHP? Tabs or spaces? If you bring any of these up in a discussion, you will observe terminally stupid shouting matches occur between those with strong opinions.
 So with that in mind, I accept that I’m wading into somewhat similar area here with to TDD or not to TDD.</description>
+    </item>
+    
+    <item>
+      <title>Great Headlines</title>
+      <link>https://meal-deal.github.io/posts/great-headline/</link>
+      <pubDate>Fri, 27 Aug 2021 15:02:58 +0400</pubDate>
+      
+      <guid>https://meal-deal.github.io/posts/great-headline/</guid>
+      <description>The purpose of a headline is to get your audience to read the second line.
+The art of writing a great headline can be broken down into a formula:
+Great Headline = End Result User Wants + Specific Period Of Time + Address The Objections
+The key is to tell the user in seconds what your communication or product will actually do for them, not what it is.
+This also encourages the headline writer to think about the customer, and not about their product.</description>
     </item>
     
     <item>

@@ -3,11 +3,9 @@ title: "About"
 date: 2021-01-22T13:44:19+04:00
 ---
 
-I'm a web developer with over 15 years experience.
+I'm a web developer with over 15 years experience. I understand business needs and I get things done.
 
 I enjoy mentoring developers, optimising processes, and finding pragmatic solutions.
-
-I understand business needs and get things done.
 
 On the front-end I'm proficient with:
 - javascript, node, react 
@@ -16,41 +14,39 @@ On the front-end I'm proficient with:
 On the back-end:
 - python, php, bash automation, cli
 
-I'm also interested in 
+Other interests:
 - marketing
 - writing
 - security and privacy
 - blockchain
 - film, music, non-fiction literature
-- [pragmatism](https://www.wikiwand.com/en/Pragmatism)
 
 ## Projects
 
-Some hobby projects I've worked on over the years. Rarely updated. 
-(Most of my professional work is under NDA.)
+Some small side projects I've worked on over the years. Rarely updated. 
+(My current professional work is under NDA.)
 
 ### Code
-- [StringToURL](https://hot-meal.github.io/string-to-url/)
+- [StringToURL](https://meal-deal.github.io/string-to-url/)
   Convert any text-file into an encrypted shareable URL.
-- [Konekrate](https://hot-meal.github.io/konekrate/)
   Ethereum smart contract generator.
-- [Ubuntu React](https://hot-meal.github.io/ubuntu-demo/)
+- [Ubuntu React](https://meal-deal.github.io/ubuntu-demo/)
   A clone of Ubuntu built with React and Next.
-- [Plum](https://hot-meal.github.io/plum/)
+- [Plum](https://meal-deal.github.io/plum/)
   Class-less CSS framework.
-- [Mango](https://github.com/hot-meal/mango) 
+- [Mango](https://github.com/meal-deal/mango) 
   A tiny 400 byte javascript templating language.
-- [Mango-PHP](https://github.com/hot-meal/mango-php)
+- [Mango-PHP](https://github.com/meal-deal/mango-php)
   A tiny 400 byte php templating language.
-- [HTML to Image](https://hot-meal.github.io/html-to-image/)
+- [HTML to Image](https://meal-deal.github.io/html-to-image/)
   Generates an image from an HTML file with Node js cli.
-- [ColourGen](https://hot-meal.github.io/colourGen/)
+- [ColourGen](https://meal-deal.github.io/colourGen/)
   Generates random attractive colours.
-- [Flexi Grid](https://github.com/hot-meal/flexi-grid) 
+- [Flexi Grid](https://github.com/meal-deal/flexi-grid) 
   A Grid system built with Flexbox. _Before CSS Grid had wide browser support._
 
 
 ### Writing
-  - [JavaScript Guide](https://hot-meal.github.io/javascript-guide/)
-  - [CSS and HTML Guide](https://hot-meal.github.io/css-html-guide/)
+  - [JavaScript Guide](https://meal-deal.github.io/javascript-guide/)
+  - [CSS and HTML Guide](https://meal-deal.github.io/css-html-guide/)
 

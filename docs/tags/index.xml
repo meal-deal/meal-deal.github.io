@@ -6,40 +6,31 @@
     <description>Recent content in Tags on hot-meal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 27 Aug 2022 15:02:58 +0400</lastBuildDate><atom:link href="https://meal-deal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>communication</title>
-      <link>https://meal-deal.github.io/tags/communication/</link>
-      <pubDate>Sat, 27 Aug 2022 15:02:58 +0400</pubDate>
-      
-      <guid>https://meal-deal.github.io/tags/communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>marketing</title>
-      <link>https://meal-deal.github.io/tags/marketing/</link>
-      <pubDate>Sat, 27 Aug 2022 15:02:58 +0400</pubDate>
-      
-      <guid>https://meal-deal.github.io/tags/marketing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>writing</title>
-      <link>https://meal-deal.github.io/tags/writing/</link>
-      <pubDate>Sat, 27 Aug 2022 15:02:58 +0400</pubDate>
-      
-      <guid>https://meal-deal.github.io/tags/writing/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 16 Jun 2022 22:28:53 +0400</lastBuildDate><atom:link href="https://meal-deal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>engineering</title>
       <link>https://meal-deal.github.io/tags/engineering/</link>
       <pubDate>Thu, 16 Jun 2022 22:28:53 +0400</pubDate>
       
       <guid>https://meal-deal.github.io/tags/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>communication</title>
+      <link>https://meal-deal.github.io/tags/communication/</link>
+      <pubDate>Tue, 14 Jun 2022 14:49:39 +0400</pubDate>
+      
+      <guid>https://meal-deal.github.io/tags/communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>https://meal-deal.github.io/tags/writing/</link>
+      <pubDate>Tue, 14 Jun 2022 14:49:39 +0400</pubDate>
+      
+      <guid>https://meal-deal.github.io/tags/writing/</guid>
       <description></description>
     </item>
     
@@ -76,6 +67,15 @@
       <pubDate>Tue, 22 Feb 2022 13:44:19 +0400</pubDate>
       
       <guid>https://meal-deal.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marketing</title>
+      <link>https://meal-deal.github.io/tags/marketing/</link>
+      <pubDate>Fri, 27 Aug 2021 15:02:58 +0400</pubDate>
+      
+      <guid>https://meal-deal.github.io/tags/marketing/</guid>
       <description></description>
     </item>
     

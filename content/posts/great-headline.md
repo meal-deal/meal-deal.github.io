@@ -1,6 +1,6 @@
 ---
-title: "The Art of the Headline"
-date: 2022-08-27T15:02:58+04:00
+title: "Great Headlines"
+date: 2021-08-27T15:02:58+04:00
 tags:
   - writing
   - communication

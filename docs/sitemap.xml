@@ -2,34 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://meal-deal.github.io/tags/communication/</loc>
-    <lastmod>2022-08-27T15:02:58+04:00</lastmod>
+    <loc>https://meal-deal.github.io/tags/engineering/</loc>
+    <lastmod>2022-06-16T22:28:53+04:00</lastmod>
   </url><url>
     <loc>https://meal-deal.github.io/</loc>
-    <lastmod>2022-08-27T15:02:58+04:00</lastmod>
-  </url><url>
-    <loc>https://meal-deal.github.io/tags/marketing/</loc>
-    <lastmod>2022-08-27T15:02:58+04:00</lastmod>
+    <lastmod>2022-06-16T22:28:53+04:00</lastmod>
   </url><url>
     <loc>https://meal-deal.github.io/posts/</loc>
-    <lastmod>2022-08-27T15:02:58+04:00</lastmod>
+    <lastmod>2022-06-16T22:28:53+04:00</lastmod>
   </url><url>
     <loc>https://meal-deal.github.io/tags/</loc>
-    <lastmod>2022-08-27T15:02:58+04:00</lastmod>
-  </url><url>
-    <loc>https://meal-deal.github.io/posts/great-headline/</loc>
-    <lastmod>2022-08-27T15:02:58+04:00</lastmod>
-  </url><url>
-    <loc>https://meal-deal.github.io/tags/writing/</loc>
-    <lastmod>2022-08-27T15:02:58+04:00</lastmod>
-  </url><url>
-    <loc>https://meal-deal.github.io/tags/engineering/</loc>
     <lastmod>2022-06-16T22:28:53+04:00</lastmod>
   </url><url>
     <loc>https://meal-deal.github.io/posts/write-less-code/</loc>
     <lastmod>2022-06-16T22:28:53+04:00</lastmod>
   </url><url>
+    <loc>https://meal-deal.github.io/tags/communication/</loc>
+    <lastmod>2022-06-14T14:49:39+04:00</lastmod>
+  </url><url>
     <loc>https://meal-deal.github.io/posts/how-to-be-clear/</loc>
+    <lastmod>2022-06-14T14:49:39+04:00</lastmod>
+  </url><url>
+    <loc>https://meal-deal.github.io/tags/writing/</loc>
     <lastmod>2022-06-14T14:49:39+04:00</lastmod>
   </url><url>
     <loc>https://meal-deal.github.io/posts/optimisation/</loc>
@@ -67,6 +61,12 @@
   </url><url>
     <loc>https://meal-deal.github.io/posts/tdd/</loc>
     <lastmod>2021-10-31T23:59:00+04:00</lastmod>
+  </url><url>
+    <loc>https://meal-deal.github.io/posts/great-headline/</loc>
+    <lastmod>2021-08-27T15:02:58+04:00</lastmod>
+  </url><url>
+    <loc>https://meal-deal.github.io/tags/marketing/</loc>
+    <lastmod>2021-08-27T15:02:58+04:00</lastmod>
   </url><url>
     <loc>https://meal-deal.github.io/posts/on-being-idle/</loc>
     <lastmod>2021-07-08T17:54:33+04:00</lastmod>
