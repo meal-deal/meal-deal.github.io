@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hot-meal</title>
-    <link>https://hot-meal.github.io/</link>
+    <link>https://meal-deal.github.io/</link>
     <description>Recent content on hot-meal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 27 Aug 2022 15:02:58 +0400</lastBuildDate><atom:link href="https://hot-meal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Aug 2022 15:02:58 +0400</lastBuildDate><atom:link href="https://meal-deal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Art of the Headline</title>
-      <link>https://hot-meal.github.io/posts/great-headline/</link>
+      <link>https://meal-deal.github.io/posts/great-headline/</link>
       <pubDate>Sat, 27 Aug 2022 15:02:58 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/great-headline/</guid>
+      <guid>https://meal-deal.github.io/posts/great-headline/</guid>
       <description>The purpose of a headline is to get your audience to read the second line.
 The art of writing a great headline can be broken down into a formula:
 Great Headline = End Result User Wants + Specific Period Of Time + Address The Objections
@@ -22,10 +22,10 @@ This also encourages the headline writer to think about the customer, and not ab
     
     <item>
       <title>Write Less Code</title>
-      <link>https://hot-meal.github.io/posts/write-less-code/</link>
+      <link>https://meal-deal.github.io/posts/write-less-code/</link>
       <pubDate>Thu, 16 Jun 2022 22:28:53 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/write-less-code/</guid>
+      <guid>https://meal-deal.github.io/posts/write-less-code/</guid>
       <description>We enjoy writing code, solving problems. It’s exciting to build something new.
 We seek out new languages, paradigms, frameworks, stacks, tools, APIs, and libraries to learn. Immersing ourselves in them and seeking mental flow – that state in which we generate new code as hours feel like minutes.
 Some misguided people have gone so far as to use lines of code generated per hour as a metric of productivity. But even if you we don&amp;rsquo;t get all the way to the point of weapons-grade stupidity, it’s still easy to believe that more code = better.</description>
@@ -33,10 +33,10 @@ Some misguided people have gone so far as to use lines of code generated per hou
     
     <item>
       <title>Good Communication</title>
-      <link>https://hot-meal.github.io/posts/how-to-be-clear/</link>
+      <link>https://meal-deal.github.io/posts/how-to-be-clear/</link>
       <pubDate>Tue, 14 Jun 2022 14:49:39 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/how-to-be-clear/</guid>
+      <guid>https://meal-deal.github.io/posts/how-to-be-clear/</guid>
       <description>The most valuable strategy for communication is the simplest: clarity.
 When you communicate with clarity, people spend less time trying to interpret what you’re saying.
 As a result, they’ll understand you faster, and with less effort.
@@ -46,11 +46,11 @@ Think about what your readers might already know The thing you wish to communica
     
     <item>
       <title>Root of All Evil</title>
-      <link>https://hot-meal.github.io/posts/optimisation/</link>
+      <link>https://meal-deal.github.io/posts/optimisation/</link>
       <pubDate>Sun, 22 May 2022 16:25:33 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/optimisation/</guid>
-      <description>First make it work, then make it right… Kent BeckPremature optimisation. It can be the root of all evil.
+      <guid>https://meal-deal.github.io/posts/optimisation/</guid>
+      <description>First make it work, then make it right… Kent Beck Premature optimisation. It can be the root of all evil.
 Planning and coding are very much iterative processes.
 You take small steps, focusing on making things work first. Only then can you really start thinking about optimisation.
 If you already have working code, the planning then gets easier because there are fewer unknowns or hypotheticals.
@@ -59,20 +59,20 @@ You then take a few steps back, plan things out for a while, re-asses the big pi
     
     <item>
       <title>Don&#39;t Repeat Yourself</title>
-      <link>https://hot-meal.github.io/posts/duplication/</link>
+      <link>https://meal-deal.github.io/posts/duplication/</link>
       <pubDate>Sat, 14 May 2022 13:29:27 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/duplication/</guid>
+      <guid>https://meal-deal.github.io/posts/duplication/</guid>
       <description>If someone hasn’t yet warned you about copying code in your application, pasting it, then adjusting it (the “copy, paste, and adjust to taste” anti-pattern), then consider this a warning.
 Imagine you have a perfectly fine CalculateTax() method, but the product manager comes along and asks, “we’re expanding to Germany, and they calculate taxes a little differently there.” So you then copy the current method, paste it, rename it CalculateTaxGermany() and tweak it as needed.</description>
     </item>
     
     <item>
       <title>Senior Developers</title>
-      <link>https://hot-meal.github.io/posts/advice-for-juniors/</link>
+      <link>https://meal-deal.github.io/posts/advice-for-juniors/</link>
       <pubDate>Tue, 12 Apr 2022 12:48:49 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/advice-for-juniors/</guid>
+      <guid>https://meal-deal.github.io/posts/advice-for-juniors/</guid>
       <description>If you’re junior developer, you might assume that every word from the senior developers is a pearl of wisdom. sometimes they will be, if you’re lucky.
 But not all senior developers are created (or promoted) equal.
 For every knowledgeable, helpful senior developer exists another small person with small power, whose main qualification isn’t technical ability, but hanging around for a long time, managing not to get fired, and stumbling into promotions with titles like “senior” or “principal.</description>
@@ -80,21 +80,21 @@ For every knowledgeable, helpful senior developer exists another small person wi
     
     <item>
       <title>JavaScript and PHP</title>
-      <link>https://hot-meal.github.io/posts/love-js-php/</link>
+      <link>https://meal-deal.github.io/posts/love-js-php/</link>
       <pubDate>Mon, 28 Mar 2022 16:35:42 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/love-js-php/</guid>
-      <description>There are only two kinds of languages: the ones people complain about and the ones nobody uses.Bjarne Stroustrup (Inventor of C&amp;#43;&amp;#43;)I always keep coming back to PHP and Javascript.
+      <guid>https://meal-deal.github.io/posts/love-js-php/</guid>
+      <description>There are only two kinds of languages: the ones people complain about and the ones nobody uses. Bjarne Stroustrup (Inventor of C&amp;#43;&amp;#43;) I always keep coming back to PHP and Javascript.
 I found that PHP and Javascript are used by people who get shit done.
 They are pragmatic They understand business needs They can iterate quickly They have launched and maintained many projects There has been no shortage of cargo-culting in Web Development.</description>
     </item>
     
     <item>
       <title>Accessible Copy</title>
-      <link>https://hot-meal.github.io/posts/accessibility-a11y/</link>
+      <link>https://meal-deal.github.io/posts/accessibility-a11y/</link>
       <pubDate>Tue, 22 Feb 2022 13:44:19 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/accessibility-a11y/</guid>
+      <guid>https://meal-deal.github.io/posts/accessibility-a11y/</guid>
       <description>When writing, it&amp;rsquo;s important to use plain language and avoid figures of speech, idioms, and complicated metaphors. You can use this readability analyser to asssess how accessible your copy is.
 The text content of button, a, and label elements should be unique and descriptive. You can also use visually hidden elements to add more context to these elements if your visual copy needs to be short.
 Center-aligned or justified text is difficult to read.</description>
@@ -102,10 +102,10 @@ Center-aligned or justified text is difficult to read.</description>
     
     <item>
       <title>Build Smaller</title>
-      <link>https://hot-meal.github.io/posts/smaller-systems/</link>
+      <link>https://meal-deal.github.io/posts/smaller-systems/</link>
       <pubDate>Tue, 18 Jan 2022 14:30:40 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/smaller-systems/</guid>
+      <guid>https://meal-deal.github.io/posts/smaller-systems/</guid>
       <description>There are many things that can push you towards building a bigger, more complex system, up-front.
 These include budget allocation, excitement, an inability to decide which features to cut, or a desire to deliver the “best version” of a system.
 These things can push us towards building too much up front.
@@ -114,10 +114,10 @@ We learn so much as we&amp;rsquo;re building a system that we end up iterating i
     
     <item>
       <title>Value of Evidence</title>
-      <link>https://hot-meal.github.io/posts/evidence/</link>
+      <link>https://meal-deal.github.io/posts/evidence/</link>
       <pubDate>Fri, 24 Dec 2021 20:43:59 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/evidence/</guid>
+      <guid>https://meal-deal.github.io/posts/evidence/</guid>
       <description>Code reviews can serve as a great educational tool. Or they can undermine your motivation.
 More likely, they will just fall somewhere between an enlightening experience and pointless arguing.
 You may hear things like “that’s not a good idea” or “this is not efficient.” You may also say those things. And you will most likely be hearing them with absolutely no evidence at all.
@@ -127,10 +127,10 @@ If during code reviews, it seems like people are walking all over you or any oth
     
     <item>
       <title>Test Driven Development</title>
-      <link>https://hot-meal.github.io/posts/tdd/</link>
+      <link>https://meal-deal.github.io/posts/tdd/</link>
       <pubDate>Sun, 31 Oct 2021 23:59:00 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/tdd/</guid>
+      <guid>https://meal-deal.github.io/posts/tdd/</guid>
       <description>Test Driven Development (TDD) can be a real game-changer.
 When it comes to programming, we, as an industry, generally go pretty extreme with our biases.
 IDE vs text editor? MacOS, Windows, or Linux? What do you think of PHP? Tabs or spaces? If you bring any of these up in a discussion, you will observe terminally stupid shouting matches occur between those with strong opinions.
@@ -139,10 +139,10 @@ So with that in mind, I accept that I’m wading into somewhat similar area here
     
     <item>
       <title>Idleness</title>
-      <link>https://hot-meal.github.io/posts/on-being-idle/</link>
+      <link>https://meal-deal.github.io/posts/on-being-idle/</link>
       <pubDate>Thu, 08 Jul 2021 17:54:33 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/on-being-idle/</guid>
+      <guid>https://meal-deal.github.io/posts/on-being-idle/</guid>
       <description>It can seem sometimes, that we have a lot of time.
 We might feel like we&amp;rsquo;re wasting it, like we should be using this time productively, to better ourselves, to do something more meaningful.
 But are we just burdening ourselves with needless guilt.
@@ -151,20 +151,20 @@ Our anxieties can make it seem like there are so many things to learn, so many t
     
     <item>
       <title>Five More Lessons</title>
-      <link>https://hot-meal.github.io/posts/lessons/</link>
+      <link>https://meal-deal.github.io/posts/lessons/</link>
       <pubDate>Wed, 16 Jun 2021 10:55:09 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/lessons/</guid>
+      <guid>https://meal-deal.github.io/posts/lessons/</guid>
       <description>Every couple of years the industry changes, and so do the people you work with. New developers don’t understand the problems of the past because they&amp;rsquo;ve never seen them. Older developers burn out or lose excitement. New developers have a different reference frame, and they learn in different ways.
 When you fix an issue, you should really understand the issue that you’re fixing. Take a few steps back and try to re-integrate any new knowledge into the design.</description>
     </item>
     
     <item>
       <title>Engineering Lessons</title>
-      <link>https://hot-meal.github.io/posts/more-lessons/</link>
+      <link>https://meal-deal.github.io/posts/more-lessons/</link>
       <pubDate>Wed, 09 Jun 2021 13:10:22 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/more-lessons/</guid>
+      <guid>https://meal-deal.github.io/posts/more-lessons/</guid>
       <description>Innovation isn&amp;rsquo;t linear. Often you need to make something worse before you can make it better.
 When you replace an old system, you need to do it incrementally, otherwise it can be too much risk for stakeholders to support fully. You won’t actually see the benefits of replacing something until the end. When you’re adding new things, you&amp;rsquo;re also probably regressing. So manage expectations.
 It&amp;rsquo;s good to let users try a new thing one piece at a time.</description>
@@ -172,29 +172,29 @@ It&amp;rsquo;s good to let users try a new thing one piece at a time.</descripti
     
     <item>
       <title>Asking &#39;Why?&#39;</title>
-      <link>https://hot-meal.github.io/posts/nobody-asks-why/</link>
+      <link>https://meal-deal.github.io/posts/nobody-asks-why/</link>
       <pubDate>Fri, 21 May 2021 22:33:25 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/nobody-asks-why/</guid>
-      <description>When you grow up you tend to get told the world is the way it is and you&#39;re life is just to live your life inside the world...Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence itSteve JobsI believe you should take every opportunity in life, and work to question assumptions and approaches that are “this is the way things have always been done”.</description>
+      <guid>https://meal-deal.github.io/posts/nobody-asks-why/</guid>
+      <description>When you grow up you tend to get told the world is the way it is and you&#39;re life is just to live your life inside the world... Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it Steve Jobs I believe you should take every opportunity in life, and work to question assumptions and approaches that are “this is the way things have always been done”.</description>
     </item>
     
     <item>
       <title>The CSS Cascade</title>
-      <link>https://hot-meal.github.io/posts/use-the-css-cascade/</link>
+      <link>https://meal-deal.github.io/posts/use-the-css-cascade/</link>
       <pubDate>Fri, 14 May 2021 13:39:40 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/use-the-css-cascade/</guid>
+      <guid>https://meal-deal.github.io/posts/use-the-css-cascade/</guid>
       <description>The CSS cascade can be your friend, if you learn to think about your CSS as layers:
 Have a settings stylesheet that contains all of your default variables. Followed by a base stylesheet that acts as a foundation. Then your layout stylesheets. Each one should be a self-contained layout or composition without depending on other stylesheets. Finally, your Block stylesheets that are the patterns to your composition, these are the recurring themes of your design.</description>
     </item>
     
     <item>
       <title>About Web3</title>
-      <link>https://hot-meal.github.io/posts/origins-of-web3/</link>
+      <link>https://meal-deal.github.io/posts/origins-of-web3/</link>
       <pubDate>Sun, 18 Apr 2021 14:47:08 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/origins-of-web3/</guid>
+      <guid>https://meal-deal.github.io/posts/origins-of-web3/</guid>
       <description>To understand web3 it helps to briefly review what is meant by web1 and web2.
 web1 was a decentralised internet. People would host their own websites and emails on their own servers at home.
 Over time, things started to become more centralised.
@@ -203,10 +203,10 @@ People began instead choosing to publish their content on centralised platforms 
     
     <item>
       <title>About</title>
-      <link>https://hot-meal.github.io/about/</link>
+      <link>https://meal-deal.github.io/about/</link>
       <pubDate>Fri, 22 Jan 2021 13:44:19 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/about/</guid>
+      <guid>https://meal-deal.github.io/about/</guid>
       <description>I&amp;rsquo;m a web developer with over 15 years experience.
 I enjoy mentoring developers, optimising processes, and finding pragmatic solutions.
 I understand business needs and get things done.
@@ -218,10 +218,10 @@ marketing writing security and privacy blockchain film, music, non-fiction liter
     
     <item>
       <title>Simpler Front-end Toolset</title>
-      <link>https://hot-meal.github.io/posts/2020-08-11-simple-front-end/</link>
+      <link>https://meal-deal.github.io/posts/2020-08-11-simple-front-end/</link>
       <pubDate>Tue, 11 Aug 2020 11:47:12 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/2020-08-11-simple-front-end/</guid>
+      <guid>https://meal-deal.github.io/posts/2020-08-11-simple-front-end/</guid>
       <description>When looking to start a simple front end project, many people may default to using things like React, TypeScript, Vite, or Tailwind.
 Instead, here are some recommendations that don&amp;rsquo;t require using Node or NPM.
 CSS Use a &amp;ldquo;classless&amp;rdquo; CSS library like CSSBed or Pico.css.

@@ -1,4 +1,4 @@
-baseURL = "https://hot-meal.github.io/" 
+baseURL = "https://meal-deal.github.io/" 
 languageCode = "en-gb"
 title = "hot-meal"
 theme = "minimal-bootstrap-hugo-theme"
@@ -12,7 +12,7 @@ publishDir = "docs"
   post = "/:filename/"
 
 [params]
-  description = "Personal Blog of Github user hot-meal"
+  description = "meal-deals Blog"
   contentBackgroundColor = "#fff"
   contentTextColor = "#212529"
   contentLinkColor = "#007bff"

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>web on hot-meal</title>
-    <link>https://hot-meal.github.io/tags/web/</link>
+    <link>https://meal-deal.github.io/tags/web/</link>
     <description>Recent content in web on hot-meal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 11 Aug 2020 11:47:12 +0400</lastBuildDate><atom:link href="https://hot-meal.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Aug 2020 11:47:12 +0400</lastBuildDate><atom:link href="https://meal-deal.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simpler Front-end Toolset</title>
-      <link>https://hot-meal.github.io/posts/2020-08-11-simple-front-end/</link>
+      <link>https://meal-deal.github.io/posts/2020-08-11-simple-front-end/</link>
       <pubDate>Tue, 11 Aug 2020 11:47:12 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/2020-08-11-simple-front-end/</guid>
+      <guid>https://meal-deal.github.io/posts/2020-08-11-simple-front-end/</guid>
       <description>When looking to start a simple front end project, many people may default to using things like React, TypeScript, Vite, or Tailwind.
 Instead, here are some recommendations that don&amp;rsquo;t require using Node or NPM.
 CSS Use a &amp;ldquo;classless&amp;rdquo; CSS library like CSSBed or Pico.css.

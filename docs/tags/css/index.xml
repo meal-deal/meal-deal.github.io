@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>css on hot-meal</title>
-    <link>https://hot-meal.github.io/tags/css/</link>
+    <link>https://meal-deal.github.io/tags/css/</link>
     <description>Recent content in css on hot-meal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 14 May 2021 13:39:40 +0400</lastBuildDate><atom:link href="https://hot-meal.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 May 2021 13:39:40 +0400</lastBuildDate><atom:link href="https://meal-deal.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The CSS Cascade</title>
-      <link>https://hot-meal.github.io/posts/use-the-css-cascade/</link>
+      <link>https://meal-deal.github.io/posts/use-the-css-cascade/</link>
       <pubDate>Fri, 14 May 2021 13:39:40 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/use-the-css-cascade/</guid>
+      <guid>https://meal-deal.github.io/posts/use-the-css-cascade/</guid>
       <description>The CSS cascade can be your friend, if you learn to think about your CSS as layers:
 Have a settings stylesheet that contains all of your default variables. Followed by a base stylesheet that acts as a foundation. Then your layout stylesheets. Each one should be a self-contained layout or composition without depending on other stylesheets. Finally, your Block stylesheets that are the patterns to your composition, these are the recurring themes of your design.</description>
     </item>

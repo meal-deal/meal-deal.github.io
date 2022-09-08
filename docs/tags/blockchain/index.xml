@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blockchain on hot-meal</title>
-    <link>https://hot-meal.github.io/tags/blockchain/</link>
+    <link>https://meal-deal.github.io/tags/blockchain/</link>
     <description>Recent content in blockchain on hot-meal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 18 Apr 2021 14:47:08 +0400</lastBuildDate><atom:link href="https://hot-meal.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Apr 2021 14:47:08 +0400</lastBuildDate><atom:link href="https://meal-deal.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Web3</title>
-      <link>https://hot-meal.github.io/posts/origins-of-web3/</link>
+      <link>https://meal-deal.github.io/posts/origins-of-web3/</link>
       <pubDate>Sun, 18 Apr 2021 14:47:08 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/origins-of-web3/</guid>
+      <guid>https://meal-deal.github.io/posts/origins-of-web3/</guid>
       <description>To understand web3 it helps to briefly review what is meant by web1 and web2.
 web1 was a decentralised internet. People would host their own websites and emails on their own servers at home.
 Over time, things started to become more centralised.

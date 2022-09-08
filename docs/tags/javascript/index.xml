@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>javascript on hot-meal</title>
-    <link>https://hot-meal.github.io/tags/javascript/</link>
+    <link>https://meal-deal.github.io/tags/javascript/</link>
     <description>Recent content in javascript on hot-meal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 28 Mar 2022 16:35:42 +0400</lastBuildDate><atom:link href="https://hot-meal.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Mar 2022 16:35:42 +0400</lastBuildDate><atom:link href="https://meal-deal.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JavaScript and PHP</title>
-      <link>https://hot-meal.github.io/posts/love-js-php/</link>
+      <link>https://meal-deal.github.io/posts/love-js-php/</link>
       <pubDate>Mon, 28 Mar 2022 16:35:42 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/love-js-php/</guid>
-      <description>There are only two kinds of languages: the ones people complain about and the ones nobody uses.Bjarne Stroustrup (Inventor of C&amp;#43;&amp;#43;)I always keep coming back to PHP and Javascript.
+      <guid>https://meal-deal.github.io/posts/love-js-php/</guid>
+      <description>There are only two kinds of languages: the ones people complain about and the ones nobody uses. Bjarne Stroustrup (Inventor of C&amp;#43;&amp;#43;) I always keep coming back to PHP and Javascript.
 I found that PHP and Javascript are used by people who get shit done.
 They are pragmatic They understand business needs They can iterate quickly They have launched and maintained many projects There has been no shortage of cargo-culting in Web Development.</description>
     </item>

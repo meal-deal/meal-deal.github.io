@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>writing on hot-meal</title>
-    <link>https://hot-meal.github.io/tags/writing/</link>
+    <link>https://meal-deal.github.io/tags/writing/</link>
     <description>Recent content in writing on hot-meal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 27 Aug 2022 15:02:58 +0400</lastBuildDate><atom:link href="https://hot-meal.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Aug 2022 15:02:58 +0400</lastBuildDate><atom:link href="https://meal-deal.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Art of the Headline</title>
-      <link>https://hot-meal.github.io/posts/great-headline/</link>
+      <link>https://meal-deal.github.io/posts/great-headline/</link>
       <pubDate>Sat, 27 Aug 2022 15:02:58 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/great-headline/</guid>
+      <guid>https://meal-deal.github.io/posts/great-headline/</guid>
       <description>The purpose of a headline is to get your audience to read the second line.
 The art of writing a great headline can be broken down into a formula:
 Great Headline = End Result User Wants + Specific Period Of Time + Address The Objections
@@ -22,10 +22,10 @@ This also encourages the headline writer to think about the customer, and not ab
     
     <item>
       <title>Good Communication</title>
-      <link>https://hot-meal.github.io/posts/how-to-be-clear/</link>
+      <link>https://meal-deal.github.io/posts/how-to-be-clear/</link>
       <pubDate>Tue, 14 Jun 2022 14:49:39 +0400</pubDate>
       
-      <guid>https://hot-meal.github.io/posts/how-to-be-clear/</guid>
+      <guid>https://meal-deal.github.io/posts/how-to-be-clear/</guid>
       <description>The most valuable strategy for communication is the simplest: clarity.
 When you communicate with clarity, people spend less time trying to interpret what you’re saying.
 As a result, they’ll understand you faster, and with less effort.

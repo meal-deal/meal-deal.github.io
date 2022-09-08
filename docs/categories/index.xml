@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on hot-meal</title>
-    <link>https://hot-meal.github.io/categories/</link>
+    <link>https://meal-deal.github.io/categories/</link>
     <description>Recent content in Categories on hot-meal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://hot-meal.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://meal-deal.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
