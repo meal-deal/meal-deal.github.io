@@ -192,25 +192,19 @@ blockquote,
 <h1>Accessible Copy</h1>
 <ul>
 <li>
-<p>When writing, it&rsquo;s important to use plain language and avoid figures of speech, idioms, and complicated metaphors. You can use this <a href="https://datayze.com/readability-analyzer.php">readability analyser</a> to asssess how accessible your copy is.</p>
+<p>When writing, it&rsquo;s important to use plain language and avoid figures of speech, idioms, and complicated metaphors.</p>
 </li>
 <li>
 <p>The text content of <code>button</code>, <code>a</code>, and <code>label</code> elements should be unique and descriptive. You can also use visually hidden elements to add more context to these elements if your visual copy needs to be short.</p>
 </li>
 <li>
-<p>Center-aligned or justified text is difficult to read. Always prefer left-aligned text for left-to-right (LTR) languages, and right-aligned text for right-to-left (RTL) languages.</p>
+<p>Make sure your <code>title</code> is unique for every page. This helps people to understand what page or view they are going to start navigating.</p>
 </li>
 <li>
-<p>Make sure the viewport zoom is not disabled. Many people will need to increase text-sizes to a point where they can read it. You should not stop them from doing this, even for web apps which favour a native app-like experience. Native apps should always respect Operating System settings for text resizing.</p>
+<p>Ensure your content flows linearly. Remove any <code>tabindex</code> attribute values that are not either <code>0</code> or <code>-1</code>. Those elements that are natively focusable, like <code>links</code> or <code>button</code> elements, do not require a <code>tabindex</code>. Those elements which are not natively focusable should not have a <code>tabindex</code> applied to them except for very specific use cases.</p>
 </li>
 <li>
-<p>Make sure your <code>title</code> is unique for every page. The title element, found in the document&rsquo;s head element, is usually the first bit of information announced by assistive technology. This then helps people to understand what page or view they are going to start navigating.</p>
-</li>
-<li>
-<p>Ensure your content flows linearly. Always remove any <code>tabindex</code> attribute values that are not either <code>0</code> or <code>-1</code>. Those elements that are natively focusable, like <code>links</code> or <code>button</code> elements, do not require a <code>tabindex</code>. Those elements which are not natively focusable should not have a <code>tabindex</code> applied to them except for very specific use cases.</p>
-</li>
-<li>
-<p>Make sure to have only one <code>h1</code> element per page. The <code>h1</code> element is used to communicate the higher-level purpose of the page. So, be careful not use the <code>h1</code> element for a heading that does not change between pages (like the site&rsquo;s name).</p>
+<p>Use only one <code>h1</code> element per page. The <code>h1</code> element is used to communicate the higher-level purpose of the page. So, be careful not use the <code>h1</code> element for a heading that does not change between pages (like the site&rsquo;s name).</p>
 </li>
 </ul>
 

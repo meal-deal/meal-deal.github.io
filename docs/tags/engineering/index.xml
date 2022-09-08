@@ -24,7 +24,7 @@ Some misguided people have gone so far as to use lines of code generated per hou
       <pubDate>Sun, 22 May 2022 16:25:33 +0400</pubDate>
       
       <guid>https://meal-deal.github.io/posts/optimisation/</guid>
-      <description>First make it work, then make it right… Kent Beck Premature optimisation. It can be the root of all evil.
+      <description>First make it work, then make it right… Kent BeckPremature optimisation. It can be the root of all evil.
 Planning and coding are very much iterative processes.
 You take small steps, focusing on making things work first. Only then can you really start thinking about optimisation.
 If you already have working code, the planning then gets easier because there are fewer unknowns or hypotheticals.
@@ -37,8 +37,9 @@ You then take a few steps back, plan things out for a while, re-asses the big pi
       <pubDate>Sat, 14 May 2022 13:29:27 +0400</pubDate>
       
       <guid>https://meal-deal.github.io/posts/duplication/</guid>
-      <description>If someone hasn’t yet warned you about copying code in your application, pasting it, then adjusting it (the “copy, paste, and adjust to taste” anti-pattern), then consider this a warning.
-Imagine you have a perfectly fine CalculateTax() method, but the product manager comes along and asks, “we’re expanding to Germany, and they calculate taxes a little differently there.” So you then copy the current method, paste it, rename it CalculateTaxGermany() and tweak it as needed.</description>
+      <description>Imagine you have a CalculateTax() method, but the product manager comes along and asks, “we’re expanding to Germany, and they calculate taxes a little differently there.” So you then copy the current method, paste it, rename it CalculateTaxGermany() and tweak it as needed.
+Here are some problems with this approach:
+If a future update requires changes to the core logic, you now have to do the extra work and modify 2 methods.</description>
     </item>
     
     <item>
@@ -58,7 +59,7 @@ For every knowledgeable, helpful senior developer exists another small person wi
       <pubDate>Mon, 28 Mar 2022 16:35:42 +0400</pubDate>
       
       <guid>https://meal-deal.github.io/posts/love-js-php/</guid>
-      <description>There are only two kinds of languages: the ones people complain about and the ones nobody uses. Bjarne Stroustrup (Inventor of C&amp;#43;&amp;#43;) I always keep coming back to PHP and Javascript.
+      <description>There are only two kinds of languages: the ones people complain about and the ones nobody uses.Bjarne Stroustrup (Inventor of C&amp;#43;&amp;#43;)I always keep coming back to PHP and Javascript.
 I found that PHP and Javascript are used by people who get shit done.
 They are pragmatic They understand business needs They can iterate quickly They have launched and maintained many projects There has been no shortage of cargo-culting in Web Development.</description>
     </item>
@@ -81,10 +82,9 @@ We learn so much as we&amp;rsquo;re building a system that we end up iterating i
       <pubDate>Fri, 24 Dec 2021 20:43:59 +0400</pubDate>
       
       <guid>https://meal-deal.github.io/posts/evidence/</guid>
-      <description>Code reviews can serve as a great educational tool. Or they can undermine your motivation.
-More likely, they will just fall somewhere between an enlightening experience and pointless arguing.
-You may hear things like “that’s not a good idea” or “this is not efficient.” You may also say those things. And you will most likely be hearing them with absolutely no evidence at all.
-You can fix this.
+      <description>Code reviews can serve as a great educational tool.
+More likely, they will just fall somewhere between an enlightening experience and pointless discussion.
+You may hear things like “that’s not a good idea” or “this is not efficient.” And you will most likely be hearing them with absolutely no evidence at all.
 If during code reviews, it seems like people are walking all over you or any other type of collaborative effort within your team or company, then evidence is your friend.</description>
     </item>
     
@@ -94,10 +94,9 @@ If during code reviews, it seems like people are walking all over you or any oth
       <pubDate>Sun, 31 Oct 2021 23:59:00 +0400</pubDate>
       
       <guid>https://meal-deal.github.io/posts/tdd/</guid>
-      <description>Test Driven Development (TDD) can be a real game-changer.
-When it comes to programming, we, as an industry, generally go pretty extreme with our biases.
-IDE vs text editor? MacOS, Windows, or Linux? What do you think of PHP? Tabs or spaces? If you bring any of these up in a discussion, you will observe terminally stupid shouting matches occur between those with strong opinions.
-So with that in mind, I accept that I’m wading into somewhat similar area here with to TDD or not to TDD.</description>
+      <description>My first experience with TDD, I had spent about 2-3 hours writing some code without actually running it to see if my changes were working. Usually I would run the code every 10 minutes or so to check to see if my changes were actually working.
+Upon realising that I was already hours into coding, I fired up the UI, with a sigh, expecting some intense debugging ahead.
+But then a strange thing happened.</description>
     </item>
     
     <item>
@@ -127,7 +126,7 @@ It&amp;rsquo;s good to let users try a new thing one piece at a time.</descripti
       <pubDate>Fri, 21 May 2021 22:33:25 +0400</pubDate>
       
       <guid>https://meal-deal.github.io/posts/nobody-asks-why/</guid>
-      <description>When you grow up you tend to get told the world is the way it is and you&#39;re life is just to live your life inside the world... Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it Steve Jobs I believe you should take every opportunity in life, and work to question assumptions and approaches that are “this is the way things have always been done”.</description>
+      <description>When you grow up you tend to get told the world is the way it is and you&#39;re life is just to live your life inside the world...Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence itSteve JobsI believe you should take every opportunity in life, and work to question assumptions and approaches that are “this is the way things have always been done”.</description>
     </item>
     
     <item>

@@ -3,28 +3,21 @@ title: "About"
 date: 2021-01-22T13:44:19+04:00
 ---
 
-I'm a web developer with over 15 years experience. I understand business needs and I get things done.
-
-I enjoy mentoring developers, optimising processes, and finding pragmatic solutions.
+I'm a web developer with over 15 years experience.
 
 On the front-end I'm proficient with:
-- javascript, node, react 
-- html, css, sass
+- javascript, node, react, html, css, sass
 
 On the back-end:
-- python, php, bash automation, cli
+- python, php, bash
 
 Other interests:
-- marketing
-- writing
-- security and privacy
-- blockchain
-- film, music, non-fiction literature
+- writing. security and privacy, blockchain, film, music, non-fiction literature
 
 ## Projects
 
-Some small side projects I've worked on over the years. Rarely updated. 
-(My current professional work is under NDA.)
+Some small side projects I've worked on previously (rarely updated). 
+(My professional work is under NDA.)
 
 ### Code
 - [StringToURL](https://meal-deal.github.io/string-to-url/)
